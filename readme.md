@@ -1,1 +1,3 @@
-run test coverage - `NODE_ENV=COVERAGE mocha -R html-cov > coverage.html`
+1. run - `node app`
+2. test - `grunt test`
+3. coverage - `grunt coverage`
